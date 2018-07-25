@@ -8,9 +8,9 @@
 
 ## Fundamentals of Machine Learning in Finance
 1. [Random Forests And Decision Trees](Bank_failure_rand_forests_m2_ex1.ipynb)
-2. Eigen Portfolio construction via PCA
+2. [Eigen Portfolio construction via PCA](pca_eigen_portfolios_m2_ex3.ipynb)
 3. [Data Visualization with t-SNE](DJI_tSNE_m2_ex4_corrected.ipynb)
-4. Absorption Ratio via PCA
+4. [Absorption Ratio via PCA](absorp_ratio_m2_ex5.ipynb)
 
 ## Reinforcement Learning in Finance
 1. Discrete-time Black Scholes model
