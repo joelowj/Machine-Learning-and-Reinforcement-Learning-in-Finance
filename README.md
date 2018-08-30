@@ -13,7 +13,7 @@
 4. [Absorption Ratio via PCA](absorp_ratio_m2_ex5.ipynb)
 
 ## Reinforcement Learning in Finance
-1. Discrete-time Black Scholes model
+1. [Discrete-time Black Scholes model](discrete_black_scholes_m3_ex1_v3.ipynb)
 2. QLBS Model Implementation
 3. Fitted Q-Iteration
 4. IRL Market Model Calibration
