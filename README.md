@@ -14,7 +14,7 @@
 
 ## Reinforcement Learning in Finance
 1. [Discrete-time Black Scholes model](discrete_black_scholes_m3_ex1_v3.ipynb)
-2. QLBS Model Implementation
+2. [QLBS Model Implementation](dp_qlbs_oneset_m3_ex2_v3.ipynb)
 3. Fitted Q-Iteration
 4. IRL Market Model Calibration
 
